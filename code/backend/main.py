@@ -323,7 +323,6 @@ def _build_analytics_from_transactions(txns: list[dict]) -> dict:
 async def get_transactions(limit: int = 50):
     return await _get_all_transactions(limit)
 
-
 @app.get("/api/analytics")
 async def get_analytics():
     try:
