@@ -80,7 +80,6 @@ The dashboard will be available at `http://localhost:3000`
 The system is trained on credit card transaction datasets with features including:
 - Transaction amount
 - Merchant category
-- Geographic location
 - Time of transaction
 - Cardholder velocity metrics
 - Historical patterns
@@ -127,9 +126,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
